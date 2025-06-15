@@ -1,0 +1,1 @@
+python3 vggt_to_colmap.py --image_dir /home/om/vggt/data/Somnath_Cleaned_ORB --output_dir /home/om/vggt/Recons/Som/Som_PM_conf_70_Voxel --conf_threshold 70.0 --binary  --prediction_mode "Pointmap Branch" --fraction 0.9
